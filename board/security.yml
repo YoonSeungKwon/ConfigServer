@@ -1,0 +1,3 @@
+jwt:
+  secret: yoonsg432143214321yoonsgyoonsg432143214321yoonsg
+  exp: 360000
